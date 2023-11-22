@@ -8,7 +8,7 @@ serviço de mensageria via websocket - modelo chat
 - tela de chat fica no endpoint `localhost:3000/chat`
 
 
-### Infromações técnicas
+### Informações técnicas
 
 desenvolvido com:
 - node v16.x.x
@@ -19,3 +19,6 @@ desenvolvido com:
 
 - npm i;
 - npm start;
+
+### Exmplo de tela:
+![image](https://github.com/marcelosander/server-messenger/assets/812616/4d0a4aff-c921-497d-a9b4-fee19417ebef)
